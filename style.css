@@ -1,0 +1,43 @@
+
+body{
+/* Background Color for the whole body */
+background-color:papayawhip;
+}
+
+.A{
+    background-color: white;
+    height: 300px;
+    width: 800px;
+    border: 1px solid black;
+    margin: 3px;
+    padding: 17px;
+ 
+}
+.ips{
+   background-color: orange; 
+}
+
+.qu{
+background-color: yellow;
+}
+
+
+.B{
+    background-color: white;
+    height: 260px;
+    width: 800px;
+    border: 2px dashed red;
+    margin: 3px;
+    padding: 17px;
+
+}
+
+.Bb{
+    border: 2px dotted red ;
+    background-color:white;
+  
+}
+
+#redd{
+    color:red;
+}
